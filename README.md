@@ -7,8 +7,8 @@ A personal expenses tracker where we can add new expenses and where we can then 
 ![5](https://user-images.githubusercontent.com/70852067/93814368-b9084200-fc54-11ea-965e-82194ca1f734.png)
 ![6](https://user-images.githubusercontent.com/70852067/93814371-b9084200-fc54-11ea-8fa8-88a211c45a18.png)
 
-Advanced Flutter & Dart Features
-Images & Fonts
-Theming & Material Design
-Good Flutter Code
+Advanced Flutter & Dart Features  
+Images & Fonts  
+Theming & Material Design  
+Good Flutter Code  
 Adding Business Logic to The App
