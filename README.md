@@ -8,6 +8,7 @@ A personal expenses tracker where we can add new expenses and where we can then 
 ![6](https://user-images.githubusercontent.com/70852067/93814371-b9084200-fc54-11ea-8fa8-88a211c45a18.png)
 
 Advanced Flutter & Dart Features  
+Responsive Layout  
 Images & Fonts  
 Theming & Material Design  
 Good Flutter Code  
