@@ -1,4 +1,4 @@
-# Personal_Expenses
+# personal_expenses
 
 A personal expenses tracker where we can add new expenses and where we can then also choose a date on which we had this expense and then this gets not only added to the list but also we have this little chart at the top which is calculated and filled dynamically to show us on the last seven days how much we spent on each day of our total spendings and this update with every new transaction we added and with every transaction we remove.
 
